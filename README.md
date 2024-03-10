@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi, I'm Eli OCCANSEY ! 👋
 
-<!--
-**elioccansey/elioccansey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bilingual (English-French) software engineer with business and product management background.
+I'm adept at finding the POE of UX, business and tech tools.
+I speak English and French. 
 
-Here are some ideas to get you started:
+<-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
