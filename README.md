@@ -1,8 +1,8 @@
 # Hi, I'm Eli OCCANSEY ! 👋
 
-I'm a bilingual (English-French) software engineer with business and product management background.
-I'm adept at finding the POE of UX, business and tech tools.
-I speak English and French. 
+- I'm a bilingual (English-French) software engineer with business and product management background.
+- I'm adept at finding the POE of UX, business and tech tools.
+- I speak English and French. 
 
 <!-- Here are some ideas to get you started: - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
